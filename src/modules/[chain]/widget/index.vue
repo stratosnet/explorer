@@ -33,7 +33,7 @@ const hdPath = computed(() => {
       </div>
       <span class="text-base">{{ $t('widget.text_1') }}</span>
         <div class="mockup-code bg-base-200 my-2">
-            <pre data-prefix="1"><code class="text-gray-800 dark:invert">&lt;script type="module" src="https://unpkg.com/ping-widget@latest/dist/ping-widget.js"&gt;</code></pre>
+            <pre data-prefix="1"><code class="text-gray-800 dark:invert">&lt;script type="module" src="https://cdn.jsdelivr.net/gh/stratosnet/widget@ea8487f7f4a50e211045e6fdeaa29959f9576437/dist/ping-widget.js"&gt;</code></pre>
         </div>
     </div>
     <div class="bg-base-100 my-5 px-4 pt-3 pb-4 rounded shadow">
